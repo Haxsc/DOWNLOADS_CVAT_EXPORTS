@@ -19,10 +19,10 @@ Este script em Python permite baixar automaticamente todos os datasets exportado
 
 1. Clone o repositório:
 
-```bash
-git clone https://github.com/Haxsc/DOWNLOADS_CVAT_EXPORTS.git
-cd DOWNLOADS_CVAT_EXPORTS
-```
+    ```bash
+    git clone https://github.com/Haxsc/DOWNLOADS_CVAT_EXPORTS.git
+    cd DOWNLOADS_CVAT_EXPORTS
+    ```
 
 2. Instale os requisitos:
 
