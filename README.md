@@ -66,7 +66,7 @@ Este script em Python permite baixar automaticamente todos os datasets exportado
 📃 Licença
 ----------
 
-MIT
+Este projeto está licenciado sob os termos da [Licença MIT](LICENSE).
 
 🙋‍♂️ Autor
 ---------
