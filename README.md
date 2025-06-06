@@ -19,9 +19,10 @@ Este script em Python permite baixar automaticamente todos os datasets exportado
 
 1. Clone o repositório:
 
-`git clone https://github.com/Haxsc/DOWNLOADS_CVAT_EXPORTS.git
+```bash
+git clone https://github.com/Haxsc/DOWNLOADS_CVAT_EXPORTS.git
 cd DOWNLOADS_CVAT_EXPORTS
-`
+```
 
 2. Instale os requisitos:
 
@@ -46,6 +47,7 @@ cd DOWNLOADS_CVAT_EXPORTS
     [✓] Login feito com sucesso!
     ✓ Task 895758 exportada em YOLO 1.1 (2025-06-06T19:12:04Z)
     ✓ Task 897531 exportada em YOLO 1.1 (2025-06-06T16:11:42Z)
+    
 
     [↓] Iniciando download de 2 arquivos...
 
